@@ -1,11 +1,11 @@
-﻿# 🏋️ IronCore Fitness — High-Performance Strength & Powerlifting Platform
+﻿# 🏋️ IronCore Fitness — High-Performance Strength Gym & Fitness Member Platform
 
-Full-stack web application for an elite powerlifting and strength training facility, featuring class schedules, trainer rosters, member portals, and gym shop.
+Elite strength and conditioning gym platform with interactive workout schedules, personal trainer rosters, membership plans, and gear store.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript & React 18
-- **Styling**: TailwindCSS
+- **Styling**: TailwindCSS & Lucide Icons
 - **Database**: Prisma ORM & SQLite
 
 ## 🚀 Quick Start
@@ -14,6 +14,7 @@ npm install
 npx prisma db push
 npm run db:seed
 npm run dev
-``n
+`
+
 ## 📄 License
 MIT License.
